@@ -152,39 +152,40 @@
 
 <div align="center">
   
-![Repo Size](https://img.shields.io/github/repo-size/saad2134/sih2025)
-![Last Commit](https://img.shields.io/github/last-commit/saad2134/sih2025)
-![Open Issues](https://img.shields.io/github/issues/saad2134/sih2025)
-![Open PRs](https://img.shields.io/github/issues-pr/saad2134/sih2025)
-![License](https://img.shields.io/github/license/saad2134/sih2025)
-![Forks](https://img.shields.io/github/forks/saad2134/sih2025?style=social)
-![Stars](https://img.shields.io/github/stars/saad2134/sih2025?style=social)
-![Watchers](https://img.shields.io/github/watchers/saad2134/sih2025?style=social)
-![Contributors](https://img.shields.io/github/contributors/saad2134/sih2025)
-![Languages](https://img.shields.io/github/languages/count/saad2134/sih2025)
-![Top Language](https://img.shields.io/github/languages/top/saad2134/sih2025)
+![Repo Size](https://img.shields.io/github/repo-size/saad2134/skill-sangam)
+![Last Commit](https://img.shields.io/github/last-commit/saad2134/skill-sangam)
+![Open Issues](https://img.shields.io/github/issues/saad2134/skill-sangam)
+![Open PRs](https://img.shields.io/github/issues-pr/saad2134/skill-sangam)
+![License](https://img.shields.io/github/license/saad2134/skill-sangam)
+![Forks](https://img.shields.io/github/forks/saad2134/skill-sangam?style=social)
+![Stars](https://img.shields.io/github/stars/saad2134/skill-sangam?style=social)
+![Watchers](https://img.shields.io/github/watchers/saad2134/skill-sangam?style=social)
+![Contributors](https://img.shields.io/github/contributors/saad2134/skill-sangam)
+![Languages](https://img.shields.io/github/languages/count/saad2134/skill-sangam)
+![Top Language](https://img.shields.io/github/languages/top/saad2134/skill-sangam)
 
 </div>
 
 ## ⭐ Star History
 
-<a href="https://www.star-history.com/#saad2134/sih2025&Date">
+<a href="https://www.star-history.com/#saad2134/skill-sangam&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=saad2134/sih2025&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=saad2134/sih2025&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=saad2134/sih2025&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=saad2134/skill-sangam&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=saad2134/skill-sangam&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=saad2134/skill-sangam&type=Date" />
  </picture>
 </a>
 
 
 ## ✨ Icon
 
-- Soon.
+<img width="250" height="250" alt="icon-500px_round-100px" src="https://github.com/user-attachments/assets/bc4f411d-5d63-4879-892d-ae51bc669ef3" />
 
 
 ## 🔰 Banner
 
-- Soon.
+<img width="1280" height="640" alt="template (4)" src="https://github.com/user-attachments/assets/0cedaba2-10d6-4f3c-b6ad-f5e621c1b6b1" />
+
 
 ## 📄 License
 
