@@ -1,24 +1,18 @@
-<h1 align="center">🏆 Prototype for Smart India Hackathon 2025</h1>
+<h1 align="center">🎓 Skill Sangam – AI-Powered Peer-2-Peer Learning</h1>
 
-### 🎯 Problem Statement
+> <p align="center">🚨 <strong>"An AI-powered peer-to-peer learning economy that verifies, incentivizes, and gamifies skill exchange, aligned with India’s skill development mission."</strong></p>
+
+## ✨ Context
+
+### 🏆 Prototype for Smart India Hackathon 2025
 
 - **Problem Statement ID:** SIH25140  
-- **Title:** Student Innovation: Swadeshi for Atma nirbhar Bharat - Smart Education  
+- **Problem Statement Title:** Student Innovation: Swadeshi for Atma nirbhar Bharat - Smart Education  
 - **Theme:** Smart Education  
 - **Category:** Software
 
 
-
-## 💡 Proposed Solution
-
-<h3 align="center">Skill Sangam – AI-Powered Peer-2-Peer Learning</h3>
-
-> <p align="center">🚨 <strong>"An AI-powered peer-to-peer learning economy that verifies, incentivizes, and gamifies skill exchange, aligned with India’s skill development mission."</strong></p>
-
-
-
-
-### 🔍 Highlights
+## 🔍 Highlights
 
 - 🤖 **AI Matching** – Smart pairing based on learning goals & teaching styles  
 - 💵 **Token Economy** – Earn by teaching, spend to learn  
@@ -36,12 +30,6 @@
 
 
 
-## 🛠️ Tech Stack
-
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend / Database:** Node.js + MongoDB / Firebase  
-- **AI Features:** TensorFlow.js / Python microservices  
-- **Hosting:** Vercel / Netlify  
 
 
 
@@ -114,11 +102,46 @@
 - **AI Skill Match Accuracy**
 
 
+---
+
+## ⚙️ Platforms
+
+| Platform                                                       | Supported? |
+| --------------------------------------------------------------- | ----------- |
+| Web (any browser with JS functionality) + Fully Responsive       | ✅          |
+| [Android](native/) (non-natively through WebView)                | ✅          |
 
 
 
-## 🚀 Getting Started
-* Soon. 
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend / Database:** Node.js + MongoDB / Firebase  
+- **AI Features:** TensorFlow.js / Python microservices  
+- **Hosting:** Vercel / Netlify  
+
+
+## 🚀 Getting Started *
+
+### 📥 Install & ▶ Run the Project 
+
+1. Clone & Download the Repo
+
+2. Install NodeJS on your system.
+
+3. Open the project in your preferred IDE.
+
+4. Run in Terminal to Install all dependancies:
+   ```bash
+   npm i
+   ```
+
+4. Get all api keys in env.template as set them in your env:
+
+5. Run in Terminal to Start Development Server:
+   ```bash
+   npm run dev
+   ```
 
 ## 📁 Project Architecture
 * Soon.
