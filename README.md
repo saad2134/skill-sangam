@@ -109,7 +109,7 @@
 | Platform                                                       | Supported? |
 | --------------------------------------------------------------- | ----------- |
 | Web (any browser with JS functionality) + Fully Responsive       | ✅          |
-| [Android](native/) (non-natively through WebView)                | ✅          |
+| [Android](frontend-android/) (non-natively through WebView)      | ✅          |
 
 
 
@@ -123,13 +123,13 @@
 
 ## 🚀 Getting Started *
 
-### 📥 Install & ▶ Run the Project 
+### Web Frontend
 
 1. Clone & Download the Repo
 
 2. Install NodeJS on your system.
 
-3. Open the project in your preferred IDE.
+3. Navigate to [frontend-web/](frontend-web/) & Open the project in your preferred IDE.
 
 4. Run in Terminal to Install all dependancies:
    ```bash
