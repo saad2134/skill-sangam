@@ -2,6 +2,19 @@
 
 > <p align="center">🚨 <strong>"An AI-powered peer-to-peer learning economy that verifies, incentivizes, and gamifies skill exchange, aligned with India’s skill development mission."</strong></p>
 
+<div align="center">
+
+<!--
+<a href="https://donorsync.vercel.app/" target="_blank">
+  <img  style="width:350px;" src="https://img.shields.io/badge/🚀_Access_the_Prototype_Here-Live-brightgreen?style=for-the-badge&labelColor=ff3838" alt="Access the Prototype Here"  />
+</a>
+-->
+
+![Phase](https://img.shields.io/badge/🛠️%20Phase-In%20Development-blue?style=for-the-badge)
+![Platforms](https://img.shields.io/badge/🌐%20Platforms-Web%20%7C%20Android*-28a745?style=for-the-badge)
+
+</div>
+
 ## ✨ Context
 
 ### 🏆 Prototype for Smart India Hackathon 2025
@@ -151,7 +164,7 @@
 
 
 
-## 📊 **Project Stats**
+## 📊 **Repo Stats**
 
 <div align="center">
   
